@@ -1,4 +1,4 @@
-FROM python:3.11
+FROM jupyter/datascience-notebook
 
 # Set the working directory to /app
 WORKDIR /app
